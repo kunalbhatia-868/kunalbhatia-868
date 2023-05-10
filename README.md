@@ -18,8 +18,25 @@ Here are some ideas to get you started:
 <h3 align="center">A CSE Final Year Student.</h3> <br>
 
 <!-- - 🌱 I’m currently practising DSA. -->
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+ <a href="https://www.linkedin.com/in/kunalbhatia868/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+ </a>&nbsp;&nbsp;
+  
+  <a href="https://leetcode.com/Kunal_Bhatia/">
+    <img style="width:50px ,height:400px" src="https://img.shields.io/badge/-LeetCode-orange?style=flat&logo=leetcode&logoColor=white" />
+ </a>&nbsp;&nbsp;
+</p>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Kunal_Bhatia?theme=dark&font=Source%20Sans%20Pro&ext=contest)
+
+<!-- ![LeetCode Stats](https://leetcard.jacoblin.cool/Kunal_Bhatia?theme=dark&font=Source%20Sans%20Pro&ext=contest) -->
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Kunal_Bhatia?theme=dark&font=Source%20Sans%20Pro&ext=contest" alt="LeetCode Stats">
+</p>
+
+
+
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
@@ -32,11 +49,6 @@ Here are some ideas to get you started:
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kunalbhatia-868&theme=dark&hide_border=false" /> 
 </td>
 
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kunalbhatia-868&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
 </tr>
 </table>
 <!--- stats (end) -->
@@ -53,10 +65,3 @@ Here are some ideas to get you started:
 </p>        
 <!--- stats (end) -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/kunalbhatia868/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-        
-</p>
